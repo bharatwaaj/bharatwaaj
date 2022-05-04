@@ -15,8 +15,20 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
-- :trophy: `ACPC` Finalist 2021
+- :school: I am a `Masters of Applied Computer Science Student` at Faculty of Computer Science at Dalhousie University
+- :trophy: 
+	- `Best Project Award` Winner at `Wipro` in 2016
+	- `Best Student Activist` Winner at `Computer Society of India` in 2017
+	- `Capture the Flag` Winner at `Verizon` in 2017
+	- `Reactathon` Winner at `Verizon` in 2018
+	- `HackdBox2.0` Winner at `Verizon` in 2019
+	- `Ignite Speaker` Winner at `Verizon` in 2019
+	- `Digital Shift Challenge` 1st Runner up at `Verizon` in 2020
+	- `Disruptathon` 2nd Runner up at `Verizon` in 2020
+	- `HackdBox3.0` Winner at `Verizon` in 2021
+	- `Filed 7 Patents on AI/DL` on Finance (Collections, Credit, Fraud, Revenue Assurance) domain at `USPTO`
+	- `Technical Speaker` at `IIT Madras Research Park`
+	
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
