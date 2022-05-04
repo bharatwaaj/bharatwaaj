@@ -32,7 +32,7 @@
 	- `Technical Speaker` at `IIT Madras Research Park`
 	
 - Technologies :technologist:
-	- Senior Data Scientist 
+	- `Senior Data Scientist`
 		- Data Science
 		- Artificial Intelligence
 		- Machine Learning
@@ -51,7 +51,7 @@
 		- RNN
 		- LSTM
 		- LSTM GRU 
-	- AWS Cloud Architect (AWS Certified Developer & Solutions Architect)
+	- `AWS Cloud Architect` (AWS Certified Developer & Solutions Architect)
 		- AWS EC2
 		- AWS Lambda
 		- AWS EBS
