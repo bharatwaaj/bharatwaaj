@@ -15,8 +15,10 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Masters of Applied Computer Science Student` at Faculty of Computer Science at Dalhousie University
-- :trophy: 
+- Schooling :school: 
+	- Pursued `Bachelors of Computer Science` at `Anna University` with a 95.1% CGPA
+	- Pursuing `Masters of Applied Computer Science Student` at Faculty of Computer Science at `Dalhousie University`
+- Awards :trophy: 
 	- `Best Project Award` Winner at `Wipro` in 2016
 	- `Best Student Activist` Winner at `Computer Society of India` in 2017
 	- `Capture the Flag` Winner at `Verizon` in 2017
@@ -29,12 +31,42 @@
 	- `Filed 7 Patents on AI/DL` on Finance (Collections, Credit, Fraud, Revenue Assurance) domain at `USPTO`
 	- `Technical Speaker` at `IIT Madras Research Park`
 	
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Codeforces`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
-- :nerd_face: Always `learning new things`
-
+- Technologies :technologist:
+	- Senior Data Scientist 
+		- Data Science
+		- Artificial Intelligence
+		- Machine Learning
+		- Deep Learning
+		- Keras
+		- Tensorflow
+		- PyTorch
+		- Scikit Learn
+		- Pandas
+		- Numpy
+		- Seaborn
+		- Matplotlib
+		- Reinforcement Learning
+		- Generative Adversarial Networks
+		- CNN
+		- RNN
+		- LSTM
+		- LSTM GRU 
+	- AWS Cloud Architect (AWS Certified Developer & Solutions Architect)
+		- AWS EC2
+		- AWS Lambda
+		- AWS EBS
+		- AWS Elastic Beanstalk
+		- AWS Kinesis
+		- AWS Redis
+		- AWS Aurora
+		- AWS S3
+		- AWS MWAA (Airflow)
+		- AWS VPC
+		- AWS Route 53
+	
+- Competitive Programming :computer: 
+	- I am a competitive programmer at `Hackerrank`
+	
 <br>
 
 ## 🔥 Streak Stats
